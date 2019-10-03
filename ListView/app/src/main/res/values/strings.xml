@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="from_high">FROM HIGH!</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
